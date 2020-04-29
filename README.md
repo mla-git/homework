@@ -1,2 +1,2 @@
-# homework
-Machine learning homework
+# project
+Machine learning project
